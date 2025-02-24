@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Vue.js Developer",
+    "company": "TechCorp",
+    "category": "Frontend",
+    "salary": "$60,000 - $80,000",
+    "description": "We are looking for a Vue.js developer to join our team."
+  },
+  {
+    "id": 2,
+    "title": "Nuxt.js Engineer",
+    "company": "StartupX",
+    "category": "Full Stack",
+    "salary": "$70,000 - $90,000",
+    "description": "Build amazing applications using Nuxt.js!"
+  },
+  {
+    "id": 3,
+    "title": "Next.js Engineer",
+    "company": "DevupX",
+    "category": "Backend",
+    "salary": "$50,000 - $60,000",
+    "description": "Build amazing backend technologies using Next.js!"
+  },
+  {
+    "id": 4,
+    "title": "Python developer",
+    "company": "TranformX",
+    "category": "Full Stack",
+    "salary": "$170,000 - $190,000",
+    "description": "Build amazing applications using Python and its libraries!"
+  },
+  {
+    "id": 5,
+    "title": "Angular developer",
+    "company": "Matrix",
+    "category": "Frontend",
+    "salary": "$20,000 - $50,000",
+    "description": "Build amazing responsive applications using Angular!"
+  },
+  {
+    "id": 6,
+    "title": "Node js developer",
+    "company": "FutureX",
+    "category": "Backend",
+    "salary": "$70,000 - $90,000",
+    "description": "Build amazing backend applications using Node.js!"
+  }
+]
