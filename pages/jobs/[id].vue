@@ -4,9 +4,21 @@
   <div
     class="flex items-center justify-center min-h-screen bg-gray-300 dark:bg-gray-900"
   >
-    <div class="absolute top-6 right-6">
+    <header class="flex justify-between items-center mb-9">
+      <div class="flex-1 text-center">
+        <h1
+          class="text-4xl font-bold text-gray-900 dark:text-white absolute top-9"
+        >
+          Get your job details here
+        </h1>
+      </div>
+      <div class="absolute top-6 right-6">
+        <DarkModeToggle />
+      </div>
+    </header>
+    <!-- <div class="absolute top-6 right-6">
       <DarkModeToggle />
-    </div>
+    </div> -->
     <div
       class="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6 w-full max-w-md"
     >
