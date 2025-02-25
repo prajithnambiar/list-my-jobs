@@ -45,7 +45,7 @@
       </div>
 
       <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
-        <!-- Job is displayed according to the filters applied -->
+        <!-- Here we use v-for to display Jobs according to the filters applied -->
         <div
           v-for="job in filteredJobs"
           :key="job.id"
